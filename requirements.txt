@@ -1,0 +1,5 @@
+streamlit==1.24.0
+ibm-watsonx-ai
+langchain==0.0.186
+chromadb
+bs4
