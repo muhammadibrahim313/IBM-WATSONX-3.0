@@ -1,3 +1,4 @@
+#this is the code to run ibm watsonx granite model
 def run_watson_granite(user_input):
     from ibm_watsonx_ai import Credentials
     from ibm_watsonx_ai.foundation_models import ModelInference
