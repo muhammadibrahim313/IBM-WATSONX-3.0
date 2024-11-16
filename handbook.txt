@@ -1,0 +1,103 @@
+*Initial 3-Month Training (Common for All)*
+
+1. *Introduction to Computing*
+   - Resource: [Computer Science 101](https://online.stanford.edu/courses/soe-ycscs101-computer-science-101)
+
+2. *Version Control (Git)*
+   - Resource: [Pro Git Book](https://git-scm.com/book/en/v2)
+
+3. *Programming Language (Python)*
+   - Resource: [Python for Everybody](https://www.coursera.org/specializations/python)
+
+4. *Data Structures and Algorithms*
+   - Resource: [LeetCode](https://leetcode.com/)
+
+5. *Object-Oriented Programming (OOP) Concepts*
+   - Resource: [Python OOP Tutorial](https://realpython.com/python3-object-oriented-programming/)
+
+6. *Error Handling*
+   - Resource: [Python Exceptions](https://docs.python.org/3/tutorial/errors.html)
+
+7. *Typing Speed*
+   - Resource: [TypingClub](https://www.typingclub.com/)
+
+8. *Problem Solving*
+   - Resource: [HackerRank](https://www.hackerrank.com/)
+
+*Specialization Paths*
+
+After the initial training, team members can choose a specialization:
+
+*1. Backend Development*
+
+   - *Django*
+     - Resource: [Django Official Documentation](https://docs.djangoproject.com/en/stable/)
+   - *Databases*
+     - Resource: [Database Systems Concepts](https://www.coursera.org/learn/database-systems)
+   - *Firebase*
+     - Resource: [Firebase Documentation](https://firebase.google.com/docs)
+   - *FastAPI*
+     - Resource: [FastAPI Tutorial](https://fastapi.tiangolo.com/tutorial/)
+   - *Plugins*
+     - Resource: [Writing Plugins](https://realpython.com/python-plugins/)
+   - *Security*
+     - Resource: [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
+   - *Pipeline Design*
+     - Resource: [CI/CD Pipeline](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
+
+*2. Software Engineering*
+
+   - *Requirement Gathering*
+     - Resource: [Requirements Engineering](https://www.coursera.org/learn/requirements-engineering)
+   - *Design*
+     - Resource: [Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture)
+   - *Models (Waterfall, Agile)*
+     - Resource: [Agile vs. Waterfall](https://www.atlassian.com/agile/project-management/project-management-methodologies)
+
+*3. Frontend Development*
+
+   - *HTML & CSS*
+     - Resource: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
+   - *Streamlit*
+     - Resource: [Streamlit Documentation](https://docs.streamlit.io/)
+   - *XML*
+     - Resource: [XML Tutorial](https://www.w3schools.com/xml/)
+   - *UI and UX Design*
+     - Resource: [Interaction Design Foundation](https://www.interaction-design.org/)
+   - *React*
+     - Resource: [React Official Documentation](https://reactjs.org/docs/getting-started.html)
+   - *PHP*
+     - Resource: [PHP Manual](https://www.php.net/manual/en/)
+
+*4. Cybersecurity*
+
+   - *IT Security*
+     - Resource: [CompTIA Security+](https://www.comptia.org/certifications/security)
+   - *Cybersecurity*
+     - Resource: [Cybersecurity Specialization](https://www.coursera.org/specializations/ibm-cybersecurity-analyst)
+   - *Cryptography*
+     - Resource: [Cryptography I](https://www.coursera.org/learn/crypto)
+
+*5. Digital Marketing*
+
+   - *Content Marketing*
+     - Resource: [Content Marketing Certification](https://academy.hubspot.com/courses/content-marketing)
+   - *SEO*
+     - Resource: [SEO Fundamentals](https://www.semrush.com/academy/courses/seo-fundamentals)
+   - *Social Media Marketing*
+     - Resource: [Social Media Marketing Specialization](https://www.coursera.org/specializations/social-media-marketing)
+
+*6. Android Development*
+
+   - *Java Programming*
+     - Resource: [Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming)
+   - *Android Basics*
+     - Resource: [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
+   - *Advanced Android Development*
+     - Resource: [Advanced Android Development](https://developer.android.com/courses/advanced-android-development)
+
+*7. Fullstack Development*
+
+   - Resource: [Full-Stack Web Development with React](https://www.coursera.org/specializations/full-stack-react)
+
+This structured guide provides a clear pathway for new team members to follow, ensuring a consistent and comprehensive onboarding experience.

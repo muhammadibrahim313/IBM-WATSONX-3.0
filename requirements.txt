@@ -1,5 +1,13 @@
 streamlit==1.24.0
 ibm-watsonx-ai
 langchain==0.0.186
+langchain-ibm
+langchain-community<0.3.0
 chromadb
 bs4
+tiktoken
+huggingface-hub
+transformers
+python-dotenv
+replicate
+wget

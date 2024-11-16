@@ -1,0 +1,8 @@
+
+I want to make my app  that will have the  following features 
+
+1. GUIDE THE EMPLOYEES based on the some content like what do you see yourself in this organization and in how many years?it will recommend(workshops, training) and other stuff and guide the user on what path to take based on the links provided 
+
+2. it will PROVIDE CONTENT like (links for documents,links of videos) so they can learn the content so they can achieve their goals 
+3. USER QUESTIONS (for better understanding)(RAG system) this will use the links and use the rag system to answer the questions (if the user does not understand some concepts the project will help it understand)
+4. when the user is feeling confident the project will take a quiz QUIZ (quiz to make better understanding)(RAG to question the user for better understanding) ( also make sure add erro handlers and  also 	the make a complete pages all thinsg iwth wtasonx integration in agentic waya lso add one oage if gvung your project idea and getting a complete flwo of poroject liek as a reaplcement of HR giving a project than dicie into differnt  roles and than gettinmg a solutions so make i added resources and add soemthinsg by Browsing and amke sure all thinsg with watsonx integartionin very good way
